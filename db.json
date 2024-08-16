@@ -1,95 +1,204 @@
 {
-  "transactions": [
+  "exercises": [
     {
       "id": 1,
-      "date": "2019-12-01",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "name": "Push-Up",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "A basic bodyweight exercise targeting the chest and triceps."
     },
     {
       "id": 2,
-      "date": "2019-12-01",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "name": "Pull-Up",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Hard",
+      "description": "An advanced bodyweight exercise for the back and biceps."
     },
     {
       "id": 3,
-      "date": "2019-12-02",
-      "description": "South by Southwest Quinoa Bowl at Fresh & Co",
-      "category": "Food",
-      "amount": -10.55
+      "name": "Squat",
+      "type": "Strength",
+      "category": "Lower Body",
+      "difficulty": "Medium",
+      "description": "A fundamental exercise that targets the thighs, hips, and buttocks."
     },
     {
       "id": 4,
-      "date": "2019-12-04",
-      "description": "Sunglasses, Urban Outfitters",
-      "category": "Fashion",
-      "amount": -24.99
+      "name": "Burpee",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Hard",
+      "description": "A high-intensity exercise combining a squat, jump, and push-up."
     },
     {
       "id": 5,
-      "date": "2019-12-06",
-      "description": "Venmo, Alice Pays you for Burrito",
-      "category": "Food",
-      "amount": 8.75
+      "name": "Lunge",
+      "type": "Strength",
+      "category": "Lower Body",
+      "difficulty": "Easy",
+      "description": "A lower body exercise that targets the quads, glutes, and hamstrings."
     },
     {
       "id": 6,
-      "date": "2019-12-06",
-      "description": "Chipotle",
-      "category": "Food",
-      "amount": -17.59
+      "name": "Plank",
+      "type": "Core",
+      "category": "Core",
+      "difficulty": "Medium",
+      "description": "A core-strengthening exercise that also engages the shoulders and back."
     },
     {
       "id": 7,
-      "date": "2019-12-07",
-      "description": "Birthday Check from Grandma",
-      "category": "Gift",
-      "amount": 50
+      "name": "Mountain Climber",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Medium",
+      "description": "A cardio exercise that simulates climbing a mountain with alternating knee drives."
     },
     {
       "id": 8,
-      "date": "2019-12-09",
-      "description": "Lyft Ride",
-      "category": "Transportation",
-      "amount": -13.25
+      "name": "Deadlift",
+      "type": "Strength",
+      "category": "Full Body",
+      "difficulty": "Hard",
+      "description": "A compound exercise that targets the back, glutes, and legs."
     },
     {
       "id": 9,
-      "date": "2019-12-11",
-      "description": "Paycheck from Bob's Burgers",
-      "category": "Income",
-      "amount": 1000
+      "name": "Bicep Curl",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Easy",
+      "description": "An isolation exercise that targets the biceps."
     },
     {
       "id": 10,
-      "date": "2019-12-16",
-      "description": "Tickets, Flatiron Multiplex Cinemas",
-      "category": "Entertainment",
-      "amount": -24
+      "name": "Tricep Dip",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the triceps and shoulders."
     },
     {
       "id": 11,
-      "date": "2019-12-16",
-      "description": "MTA Vending Machine: MetroCard",
-      "category": "Transportation",
-      "amount": -116.39
+      "name": "Leg Raise",
+      "type": "Core",
+      "category": "Core",
+      "difficulty": "Medium",
+      "description": "A core exercise focusing on the lower abs."
     },
     {
       "id": 12,
-      "date": "2019-12-17",
-      "description": "Venmo, Pay Roommate for Rent",
-      "category": "Housing",
-      "amount": -975
+      "name": "Jumping Jack",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Easy",
+      "description": "A classic cardio exercise involving jumping while spreading arms and legs."
     },
     {
-      "date": "2024-08-04",
-      "description": "movies",
-      "category": "Entertainment",
-      "amount": 60.5,
-      "id": 13
+      "id": 13,
+      "name": "Bench Press",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Hard",
+      "description": "An exercise that targets the chest, shoulders, and triceps."
+    },
+    {
+      "id": 14,
+      "name": "Row",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the back and biceps, performed using a rowing machine or barbell."
+    },
+    {
+      "id": 15,
+      "name": "Russian Twist",
+      "type": "Core",
+      "category": "Core",
+      "difficulty": "Medium",
+      "description": "A core exercise that works the obliques by twisting the torso."
+    },
+    {
+      "id": 16,
+      "name": "Chest Fly",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the chest using dumbbells."
+    },
+    {
+      "id": 17,
+      "name": "Cable Pullover",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the lats and chest using a cable machine."
+    },
+    {
+      "id": 18,
+      "name": "Kettlebell Swing",
+      "type": "Strength",
+      "category": "Full Body",
+      "difficulty": "Medium",
+      "description": "A dynamic exercise that targets the glutes, hips, and core."
+    },
+    {
+      "id": 19,
+      "name": "Hip Thrust",
+      "type": "Strength",
+      "category": "Lower Body",
+      "difficulty": "Medium",
+      "description": "An exercise that focuses on the glutes, performed by thrusting the hips upward."
+    },
+    {
+      "id": 20,
+      "name": "Shoulder Press",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Medium",
+      "description": "An exercise that targets the shoulders and triceps using dumbbells or a barbell."
+    },
+    {
+      "id": 21,
+      "name": "Face Pull",
+      "type": "Strength",
+      "category": "Upper Body",
+      "difficulty": "Easy",
+      "description": "An exercise that targets the rear deltoids and upper back."
+    },
+    {
+      "id": 22,
+      "name": "Glute Bridge",
+      "type": "Strength",
+      "category": "Lower Body",
+      "difficulty": "Easy",
+      "description": "An exercise that targets the glutes and hamstrings while lying on the back."
+    },
+    {
+      "id": 23,
+      "name": "Side Plank",
+      "type": "Core",
+      "category": "Core",
+      "difficulty": "Medium",
+      "description": "A variation of the plank that focuses on the oblique muscles."
+    },
+    {
+      "id": 24,
+      "name": "Jump Rope",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Medium",
+      "description": "A cardio exercise that improves coordination and endurance."
+    },
+    {
+      "id": 25,
+      "name": "Burpee Box Jump",
+      "type": "Cardio",
+      "category": "Full Body",
+      "difficulty": "Hard",
+      "description": "A high-intensity exercise combining a burpee with a box jump for added challenge."
     }
   ]
 }
